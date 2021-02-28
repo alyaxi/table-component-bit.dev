@@ -1,3 +1,6 @@
+Project link: https://bit.dev/alyaxi/tabel-component-storybook/tabel?example=603c1e55935ca80019b63733
+Download from here table component and install it and use for your purpose
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
